@@ -41,7 +41,7 @@
 
 |개발환경|아키텍처|
 |---|---|
-|![개발환경](img/stack.png)|![아키텍처](img/architecture.png)|
+|![개발환경](img/stacks.png)|![아키텍처](img/architecture.png)|
 
 <br/>
 
