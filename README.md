@@ -1,20 +1,3 @@
-# 목차
-
-1. [팀원소개](#팀원소개)
-2. [프로젝트 소개](#프로젝트-소개)
-3. [개발환경&아키텍처](#개발환경-및-아키텍처)
-4. [기능명세서](#기능명세서)
-5. [핵심기술](#핵심기술)
-6. [ERD](#erd)
-
-
-# 🏃팀원소개
-
-|박지원|김연화|이건희|이진규|전성재|최영진|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/img/박지원.png" width="80" height="100">|<img src="/img/김연화.png" width="85" height="100">|<img src="/img/이건희.png" width="85" height="100">|<img src="/img/이진규.png" width="85" height="100">|<img src="/img/전성재.png" width="85" height="100">|<img src="/img/최영진.png" width="85" height="100">|
-|팀장, Frontend,<br> 코스설정, 코스편집|Frontend,<br> 메인페이지 세분화|Infra, Backend,<br> Frontend, 소셜 로그인|Backend, Infra,<br> 군집화, 최단경로 알고리즘|Backend, BigData, <br>스케쥴링, 데이터 정제|Backend, BigData,<br> 빅데이터 추천|
-
 
 # 📜프로젝트 소개
 ### TravelMaker 는 사용자 맞춤형 여행 코스 제공 및 기록 서비스입니다.
